@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="makeStairs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="7.725477"
+     inkscape:cx="58.831319"
+     inkscape:cy="42.909972"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-6"
+     inkscape:window-y="416"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid65"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.981;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.176;stroke-linecap:round;stroke-linejoin:round"
+       id="rect177"
+       width="16.933332"
+       height="2.1166666"
+       x="0"
+       y="0" />
+    <rect
+       style="opacity:0.981;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.176;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.88;fill-opacity:0.88"
+       id="rect177-9"
+       width="15.169833"
+       height="2.1166666"
+       x="0.88174999"
+       y="2.1166666" />
+    <rect
+       style="opacity:0.981;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.176;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.75999999;fill-opacity:0.75999999"
+       id="rect177-9-4"
+       width="13.758332"
+       height="2.1166666"
+       x="1.5875"
+       y="4.2333331" />
+    <rect
+       style="opacity:0.981;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.176;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0.63999999"
+       id="rect177-0"
+       width="12.7"
+       height="2.1166666"
+       x="2.1166666"
+       y="6.3500004" />
+    <rect
+       style="opacity:0.981;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.176;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0.51999998"
+       id="rect177-9-9"
+       width="11.465667"
+       height="2.1166666"
+       x="2.7338333"
+       y="8.4666672" />
+    <rect
+       style="opacity:0.981;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.176;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0.40000001"
+       id="rect177-9-4-1"
+       width="10.583333"
+       height="2.1166666"
+       x="3.175"
+       y="10.583334" />
+    <rect
+       style="opacity:0.981;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.176;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0.28"
+       id="rect177-9-9-6"
+       width="9.5250006"
+       height="2.1166666"
+       x="3.7041667"
+       y="12.699999" />
+    <rect
+       style="opacity:0.981;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.176;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0.16"
+       id="rect177-9-4-1-4"
+       width="8.4666672"
+       height="2.1166666"
+       x="4.2333331"
+       y="14.816667" />
+    <path
+       style="fill:none;fill-opacity:0.86;stroke:#313131;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.212435;marker-end:url(#TriangleStart)"
+       d="m 8.4765072,17.080971 v -14.276673 0 l -0.00984,-0.6876313"
+       id="path474"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
